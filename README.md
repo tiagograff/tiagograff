@@ -1,6 +1,10 @@
 # olá, seja bem-vindo ao meu github!
 
-- sou o tiago, atualmente estou cursando ciência da computação na Unijuí (Universidade Regional do Noroeste do Estado do Rio Grande do Sul). meu objetivo é me tornar um programador front-end, já que tenho um apreço maior por essa área e o que a envolve, mas não descarto a ideia de me tornar full-stack. estou estudando ainda e estou no início, mas estou motivado a atingir meu objetivo. :)
+- sou o tiago, atualmente estou cursando ciência da computação na Unijuí (Universidade Regional do Noroeste do Estado do Rio Grande do Sul). meu objetivo é me tornar um programador front-end, já que tenho um apreço maior por essa área e o que a envolve, mas não descarto a ideia de me tornar full-stack. estou estudando ainda e estou no início, mas estou motivado a atingir meu objetivo. :).
+
+##
+
+- confira alguns dos meus projetos/exercícios realizados <a href="https://tiagograff.github.io/HTML-CSS/">aqui!</a>
 
 ##
 
