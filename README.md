@@ -8,21 +8,11 @@
 
 ##
 
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=tiagograff&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=tiagograff&show_icons=true"
-  media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=tiagograff&show_icons=true" />
-</picture>
-
-##
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagograff&langs_count=10&theme=dark)](https://github.com/tiagograff/github-readme-stats)
+<div align="start">
+  <a href="https://github.com/tiagograff">
+    <img height="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagograff&langs_count=10&theme=dark"/>
+  </a>
+</div>
 
 ## estudei um pouco de:
 <div style="display: inline_block"><br>
