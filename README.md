@@ -10,7 +10,7 @@
 
 <div align="start">
   <a href="https://github.com/tiagograff">
-    <img height="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagograff&langs_count=5&theme=dark"/>
+    <img height="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagograff&langs_count=10&theme=dark"/>
   </a>
 </div>
 
@@ -22,6 +22,7 @@
   <img align="center" alt="Git" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> 
   <img align="center" alt="Wordpress" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg"/> 
   <img align="center" alt="SQL" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/> 
+  <img align="center" alt="Tailwind" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
 </div>
   
 ## tenho um pouco mais de experiência em:
@@ -29,6 +30,7 @@
   <img align="center" alt="Bootstrap" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="HTML" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   <img align="center" alt="CSS" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
+  <img align="center" alt="Sass" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
 
 </div>
   
@@ -36,8 +38,6 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img align="center" alt="JavaScript" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg"/>
-  <img align="center" alt="Sass" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
-  <img align="center" alt="Tailwind" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
 </div>
   
 ## contatos:
