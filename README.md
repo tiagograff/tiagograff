@@ -1,6 +1,6 @@
 # olá, seja bem-vindo ao meu github!
 
-- sou o tiago, atualmente estou cursando ciência da computação na Unijuí (Universidade Regional do Noroeste do Estado do Rio Grande do Sul). meu objetivo é me tornar um programador front-end, já que tenho um apreço maior por essa área e o que a envolve, mas não descarto a ideia de me tornar full-stack. estou estudando ainda e estou no início, mas estou motivado a atingir meu objetivo. :).
+- sou o tiago, atualmente estou cursando ciência da computação na Unijuí (Universidade Regional do Noroeste do Estado do Rio Grande do Sul). meu objetivo é me tornar um programador front-end e back-end, já que tenho um apreço maior por essa área e o que a envolve full-stack. estou estudando ainda e estou no início, mas estou motivado a atingir meu objetivo. :). também estou começando a estudar inteligência artificial fazendo pesquisas e cursos relacionados, acredito que será um grande ferramente de auxílio, e em certo momento indispensável para qualquer área, gosto muito de aprender sobre e estou sempre buscando aprender a mais.
 
 ##
 
