@@ -4,7 +4,7 @@
 
 ##
 
-- confira alguns dos meus projetos/exercícios realizados referentes a HTML e CSS <a href="https://tiagograff.github.io/HTML-CSS/">aqui!</a>
+- confira meu portfólio <a href="https://tiagograff.github.io/portfolio"/>aqui!</a>
 
 ##
 
