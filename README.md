@@ -51,3 +51,4 @@
 </div>
 
 ![Snake animation](https://github.com/tiagograff/tiagograff/blob/output/github-contribution-grid-snake.svg)
+
