@@ -10,7 +10,7 @@
 
 <div align="start">
   <a href="https://github.com/tiagograff">
-    <img height="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagograff&langs_count=10&theme=dark"/>
+    <img height="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagograff&langs_count=5&theme=dark"/>
   </a>
 </div>
 
