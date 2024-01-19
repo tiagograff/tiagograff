@@ -4,7 +4,7 @@
 
 ##
 
-- confira meu portfólio <a href="https://tiagograff.github.io/portfolio"/>aqui!</a>
+- confira meu portfólio <a href="https://tiagograff.github.io/my_portfolio/"/>aqui!</a>
 
 ##
 
