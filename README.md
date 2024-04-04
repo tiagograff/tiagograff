@@ -1,6 +1,6 @@
 # olá, seja bem-vindo(a) ao meu github!
 
-- sou o tiago, atualmente estou cursando ciência da computação na Unijuí (Universidade Regional do Noroeste do Estado do Rio Grande do Sul). meu objetivo é me tornar um programador front-end e back-end, gostei muito das áreas conhecendo através das disciplinas ofertadas na faculdade. atualmente estou estudando e buscando uma oportunidade de começar, fiz alguns projetos e cursos na alura e rockseat, estou aprimorando meus conhecimentos e entusiasmado para seguir carreira.
+- sou o tiago, atualmente estou cursando ciência da computação na Unijuí (Universidade Regional do Noroeste do Estado do Rio Grande do Sul). meu objetivo é me tornar um programador front-end e back-end, gostei muito das áreas conhecendo através das disciplinas ofertadas na faculdade. atualmente estou estudando e buscando uma oportunidade de começar, fiz alguns projetos e cursos na alura e onebitcode.
 
 ##
 
