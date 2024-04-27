@@ -2,7 +2,7 @@
 
 <img align="right" alt="" height="300px" src="https://github.com/tiagograff/tiagograff/assets/87873221/ebcbca9f-f528-44aa-b56b-d079f0bf20a9">
 
-| sobre mim:
+## sobre mim:
 
 - sou o tiago, atualmente estou cursando ciência da computação na Unijuí (Universidade Regional do Noroeste do Estado do Rio Grande do Sul). meu objetivo é me tornar um programador front-end e back-end. atualmente bolsista de desenvolvimento back-end com node.js na Compass UOL.
 
