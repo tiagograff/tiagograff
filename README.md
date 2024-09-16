@@ -4,7 +4,7 @@
 
 ## sobre mim:
 
-- sou o tiago, atualmente estou cursando ciência da computação na Unijuí (Universidade Regional do Noroeste do Estado do Rio Grande do Sul). meu objetivo é me tornar um programador front-end e back-end. atualmente bolsista de desenvolvimento back-end com node.js na Compass UOL.
+- sou o tiago, atualmente estou cursando ciência da computação na Unijuí (Universidade Regional do Noroeste do Estado do Rio Grande do Sul). meu objetivo é me tornar um programador front-end e back-end.
 
 ##
 
