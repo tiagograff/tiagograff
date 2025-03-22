@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=006400&random=false&width=500&height=40&lines=olá+seja+bem-vind@-+ao+meu+github+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
 
-<img align="right" alt="imagem lofi de mim" height="300px" src="https://github.com/tiagograff/tiagograff/assets/87873221/ebcbca9f-f528-44aa-b56b-d079f0bf20a9">
+<img align="right" alt="imagem lofi de mim" height="300px" src="https://github.com/user-attachments/assets/ed6c9f66-a7a0-4249-af1d-1151536563f1">
 
 ## sobre mim:
 
