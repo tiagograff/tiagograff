@@ -3,7 +3,7 @@
 - Sou o Tiago, e aqui você encontrará alguns dos meus projetos. Eu meio que estou recomeçando minha jornada no mundo da tecnologia, então, por enquanto, ainda não há muito conteúdo por aqui — mas estou trabalhando nisso!
 Sou estudante de **Sistemas de Informação na Univille**, em **Joinville - SC**.
 
-- Gosto de pensar que sou uma pessoa **proativa**, **comunicativa**, sei **trabalhar bem em equipe**, sou **organizado**, **adaptável** e estou aprendendo cada vez mais sobre **inteligência emocional**. Essas são algumas das minhas principais soft skills. Agora, vamos para algumas informações de **hard skills**...
+- Gosto de pensar que sou uma pessoa **proativa**, **comunicativa**, sei **trabalhar bem em equipe**, sou **organizado**, **adaptável** e estou aprendendo cada vez mais sobre **inteligência emocional**. Essas são algumas das minhas principais **soft skills**. Agora, vamos para algumas informações de **hard skills**...
 
 <p align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Um gatinho programando" width="200"/>
@@ -53,4 +53,4 @@ Sou estudante de **Sistemas de Informação na Univille**, em **Joinville - SC**
 
 <h3>⚙️ Estatística deste perfil:</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagograff&layout=donut-vertical&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagograff&layout=donut-vertical&theme=dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
