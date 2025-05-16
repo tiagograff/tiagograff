@@ -19,7 +19,7 @@ Sou estudante de **Sistemas de Informação na Univille**, em **Joinville - SC**
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="50"/>
 </div>
 
-<h3>Tecnologias que tenho um moderado conhecimento (⭐️⭐️):</h3>
+<h3>Tecnologias que tenho umconhecimento mediano (⭐️⭐️):</h3>
 <div align="felx-start">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="50"/>     
