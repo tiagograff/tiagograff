@@ -1,15 +1,16 @@
-# ☁️ Olá, seja bem-vindo(a) ☁️
+# 👨‍💻 Olá, seja bem-vindo(a) 👨‍💻
 
-- Sou o Tiago, e aqui você encontrará alguns dos meus projetos. Eu meio que estou recomeçando minha jornada no mundo da tecnologia, então, por enquanto, ainda não há muito conteúdo por aqui — mas estou trabalhando nisso!
-Sou estudante de **Sistemas de Informação na Univille**, em **Joinville - SC**.
+- Aqui você encontrará alguns projetos que desenvolvi (ou que estão em desenvolvimento). Estou em um processo de retomada dos meus conhecimentos e experiências nesse vasto mundo da **tecnologia da informação**. Sou estudante de **Sistemas de Informação na Univille**, em **Joinville - SC**.
 
-- Gosto de pensar que sou uma pessoa **proativa**, **comunicativa**, sei **trabalhar bem em equipe**, sou **organizado**, **adaptável** e estou aprendendo cada vez mais sobre **inteligência emocional**. Essas são algumas das minhas principais **soft skills**. Agora, vamos para algumas informações de **hard skills**...
+- Sou uma pessoa **proativa**, **comunicativa**, sei **trabalhar bem em equipe**, sou **organizado**, **adaptável** e aprendi muito sobre **inteligência emocional** nos meus últimos desafios. Essas são algumas das minhas principais **soft skills**.
 
 <p align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Um gatinho programando" width="200"/>
 </p>
 
 <hr>
+
+Agora, vamos a algumas informações sobre minhas **hard skills**:
 
 <h3>Principais tecnologias que domino (⭐️⭐️⭐️):</h3>
 <div align="felx-start">
@@ -36,8 +37,8 @@ Sou estudante de **Sistemas de Informação na Univille**, em **Joinville - SC**
 
 <h3>Tecnologias que estou estudando no momento (📚):</h3>
 <div align="felx-start"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="50"/>  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="50"/>     
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="50"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="50"/>     
 </div>
 
 <hr>
